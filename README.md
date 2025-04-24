@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ANY TYPE OF PROJECT OR JOB
 - 📫 How to reach me belalahmed.cs987@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... eat code  sleep repeat
+- ⚡ Fun fact: ... eat sleep repeat
 
 <!---
 bellahmed987/bellahmed987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
