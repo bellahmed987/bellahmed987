@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bellahmed987
 - 👀 I’m interested in Full STACK DEVOLPMENT
-- 🌱 I’m currently learning REACT JS
+- 🌱 I’m currently learning SPRING BOOT
 - 💞️ I’m looking to collaborate on ANY TYPE OF PROJECT OR JOB
 - 📫 How to reach me belalahmed.cs987@gmail.com
 - 😄 Pronouns: ...
