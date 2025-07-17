@@ -87,6 +87,9 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:blalahmed.cs987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=blalahmed.cs987@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me via Gmail"/>
+</a>
+
   <a href="https://github.com/bellahmed987"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
